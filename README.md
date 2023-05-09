@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luna</h1>
+<h1 align="center">Hi 👋, I'm Mitchell/Luna</h1>
 <h3 align="center">A developer in Australia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=creaous&label=Profile%20views&color=0e75b6&style=flat" alt="creaous" /> </p>
