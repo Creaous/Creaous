@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mitchell/Luna</h1>
+<h1 align="center">Hi 👋, I'm Mitchell</h1>
 <h3 align="center">A developer from Australia</h3>
 
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20computer%20is%20like%20air%20conditioning%20-%20it%20becomes%20useless%20when%20you%20open%20Windows.&author=Linus%20Torvalds" alt="creaous" /></p>
