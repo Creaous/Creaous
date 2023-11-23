@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=creaous" alt="creaous" /></a> </p>
 
-- 🔭 I'm currently working on my game
+- 🔭 I'm currently working on Project Nexus
 
-- 🌱 I'm currently learning nothing
+- 🌱 I'm currently studying for a CompTIA Cloud Essentials+ certificate
 
-- 💬 Ask me about nothing
+- 💬 Ask me about Node.JS and GraphQL
 
 - 📫 How to reach me **contact.z2b68@simplelogin.com**
 
