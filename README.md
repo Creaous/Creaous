@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=creaous" alt="creaous" /></a> </p>
 
 - 🔭 I'm currently working on:
-  - Project Nexus
+  - @Nexirift
   - A Godot Game
 
 - 🌱 I'm currently studying for a CompTIA Cloud Essentials+
