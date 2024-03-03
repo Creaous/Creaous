@@ -17,6 +17,14 @@
 
 - 📫 How to reach me **m@creaous.net**
 
+<h3 align="left">Interests:</h3>
+
+- Cybersecurity
+- Reverse Engineering
+- Game Development
+- Web Development
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" /> </a>
@@ -70,3 +78,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=creaous&show_icons=true&locale=en&theme=dark" alt="creaous" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=creaous&theme=dark" alt="creaous" /></p>
+
+<br/>
+
+<p align="center"><img src="/gabe.jpg" alt="creaous" width="600" /></p>
+
+<p align="center"><i>fuck Denuvo</i></p>
