@@ -3,29 +3,35 @@
 
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20computer%20is%20like%20air%20conditioning%20-%20it%20becomes%20useless%20when%20you%20open%20Windows.&author=Linus%20Torvalds" alt="creaous" /></p>
 
+<p align="center"><i>(I use arch btw)</i></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=creaous&label=Profile%20views&color=0e75b6&style=flat" alt="creaous" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=creaous" alt="creaous" /></a> </p>
 
-- 🔭 I'm currently working on:
-  - [@Nexirift](https://github.com/Nexirift)
-  - A Godot Game
+### 🌱 I'm currently studying for...
+- A CompTIA Cloud Essentials+
 
-- 🌱 I'm currently studying for a CompTIA Cloud Essentials+
+### 💬 Ask me about
+- GraphQL
+- Typescript
+- Bun
+- React
+- Next.js
 
-- 💬 Ask me about Node.JS and GraphQL
+### 📫 How to reach me
+- **Email:** gh@creaous.net
 
-- 📫 How to reach me **m@creaous.net**
-
-<h3 align="left">Interests:</h3>
-
+### ✨ Interests
 - Cybersecurity
 - Reverse Engineering
 - Game Development
 - Web Development
 
+### 🔭 I'm currently working on
+- [@Nexirift](https://github.com/Nexirift)
 
-<h3 align="left">Languages and Tools:</h3>
+### 🧰 Languages and Tools
 <p align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" /> </a>
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" /> </a>
@@ -67,12 +73,17 @@
     <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" /> </a>
     <a href="https://godotengine.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="godot" width="40" height="40" /> </a>
 </p>
-<p><i>Keep in mind, that I am not fluent in all of the languages and tools.</i></p>
 
-<h3 align="left">Support:</h3>
-<p>Please donate via GitHub sponsors.</p>
+*Keep in mind, that I am not fluent in all of the languages and tools.*
 
-<h3 align="left">Stats:</h3>
+### 💸 Support and Donations
+Thanks for considering donating to me!
+
+Currently, I only have GitHub sponsors.
+
+You can donate using GitHub [here](https://github.com/sponsors/Creaous).
+
+### 📈 Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=creaous&show_icons=true&locale=en&layout=compact&theme=dark" alt="creaous" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=creaous&show_icons=true&locale=en&theme=dark" alt="creaous" /></p>
