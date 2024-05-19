@@ -9,6 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=creaous" alt="creaous" /></a> </p>
 
+### 🔭 I'm currently working on
+- [@Nexirift](https://github.com/Nexirift)
+
 ### 🌱 I'm currently studying for...
 - A CompTIA Cloud Essentials+
 
@@ -27,9 +30,6 @@
 - Reverse Engineering
 - Game Development
 - Web Development
-
-### 🔭 I'm currently working on
-- [@Nexirift](https://github.com/Nexirift)
 
 ### 🧰 Languages and Tools
 <p align="left">
