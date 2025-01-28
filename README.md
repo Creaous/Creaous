@@ -13,7 +13,7 @@
 - [@Nexirift](https://github.com/Nexirift)
 
 ### 🌱 I'm currently studying for...
-- A CompTIA Cloud Essentials+
+- Bachelor of Information Technology
 
 ### 💬 Ask me about
 - GraphQL
