@@ -13,7 +13,7 @@
 - [@Nexirift](https://github.com/Nexirift)
 
 ### 🌱 I'm currently studying for...
-- Bachelor of Information Technology
+- Bachelor of Information Technology (Application Development and Cyber Security)
 
 ### 💬 Ask me about
 - GraphQL
