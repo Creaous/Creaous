@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=creaous" alt="creaous" /></a> </p>
 
 ### 🔭 I'm currently working on
-- [@Nexirift](https://github.com/Nexirift)
+- Some other projects
 
 ### 🌱 I'm currently studying for...
 - Bachelor of Information Technology (Application Development and Cyber Security)
