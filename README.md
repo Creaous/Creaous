@@ -16,11 +16,9 @@
 - Bachelor of Information Technology (Application Development and Cyber Security)
 
 ### 💬 Ask me about
-- GraphQL
+- Game Dev
 - Typescript
-- Bun
-- React
-- Next.js
+- Svelte
 
 ### 📫 How to reach me
 - **Email:** gh@creaous.net
@@ -30,6 +28,7 @@
 - Reverse Engineering
 - Game Development
 - Web Development
+- Hardware Hacking
 
 ### 🧰 Languages and Tools
 <p align="left">
@@ -77,11 +76,12 @@
 *Keep in mind, that I am not fluent in all of the languages and tools.*
 
 ### 💸 Support and Donations
+
 Thanks for considering donating to me!
 
-Currently, I only have GitHub sponsors.
-
 You can donate using GitHub [here](https://github.com/sponsors/Creaous).
+
+Or alternatively, buying me a coffee [here](https://buymeacoffee.com/creaous).
 
 ### 📈 Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=creaous&show_icons=true&locale=en&layout=compact&theme=dark" alt="creaous" /></p>
@@ -94,4 +94,4 @@ You can donate using GitHub [here](https://github.com/sponsors/Creaous).
 
 <p align="center"><img src="/gabe.jpg" alt="creaous" width="600" /></p>
 
-<p align="center"><i>fuck Denuvo</i></p>
+<p align="center"><i>Information should be free and accessible.</i></p>
