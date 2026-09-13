@@ -18,8 +18,8 @@ I have a lot of experience in various different areas, such as:
 
 ### Current Projects
 
-- **[Aurora](https://git.codeguilds.org/Nexirift/aurora)**: A self-hostable Nexirift social media server, built from the ground up.
-- **[Dawn](https://git.codeguilds.org/Nexirift/dawn)**: The web and mobile app used for the Nexirift social media platform.
+- **[Aurora](https://git.codeguilds.org/Nexirift/aurora)**: Nexirift's high-performance reference API server implementing the NPS.
+- **[Dawn](https://git.codeguilds.org/Nexirift/dawn)**: Nexirift's cross-platform client app powered by Expo, built on NPS.
 - **Keystone**: Flexible software activation, built for both small teams and enterprises.
 
 *Note: Some of the projects listed here may not be available yet or are private.*
